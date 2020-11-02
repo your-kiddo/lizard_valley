@@ -8,7 +8,7 @@ export class App extends Component {
   render() {
     return (
       <div className="container">
-        <Router>
+        <Router basename="/lizard_valley">
           <Navbar/>
           <Switch>
             <Route exact path="/" component={Component} />
