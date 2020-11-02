@@ -12,10 +12,10 @@ export class Navbar extends Component<NavbarProps> {
 			<nav className="navbar navbar-light bg-light">
 				<span className="navbar-brand mb-0 h1">{title}</span>
 				<div className="nav">
-					<NavItem link="/link1" text="Link 1"/>
-					<NavItem link="/link2" text="Link 2"/>
-					<NavItem link="/link3" text="Link 3"/>
-					<NavItem link="/about" text="About"/>
+					<NavItem link="/lizard_valley/link1" text="Link 1"/>
+					<NavItem link="/lizard_valley/link2" text="Link 2"/>
+					<NavItem link="/lizard_valley/link3" text="Link 3"/>
+					<NavItem link="/lizard_valley/about" text="About"/>
 				</div>
 			</nav>
 		)

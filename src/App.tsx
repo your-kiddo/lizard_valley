@@ -8,14 +8,14 @@ export class App extends Component {
   render() {
     return (
       <div className="container">
-        <Router basename="/lizard_valley">
+        <Router>
           <Navbar/>
           <Switch>
             <Route exact path="/" component={Component} />
-            <Route path="/link1" component={Link1} />
-            <Route path="/link2" component={Link2} />
-            <Route path="/link3" component={Link3} />
-            <Route path="/about" component={About} />
+            <Route path="/lizard_valley/link1" component={Link1} />
+            <Route path="/lizard_valley/link2" component={Link2} />
+            <Route path="/lizard_valley/link3" component={Link3} />
+            <Route path="/lizard_valley/about" component={About} />
           </Switch>
         </Router>
       </div>
