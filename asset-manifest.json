@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lizard_valley/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/lizard_valley/static/js/main.75ee34e8.chunk.js",
+    "main.js.map": "/lizard_valley/static/js/main.75ee34e8.chunk.js.map",
+    "runtime-main.js": "/lizard_valley/static/js/runtime-main.71722d21.js",
+    "runtime-main.js.map": "/lizard_valley/static/js/runtime-main.71722d21.js.map",
+    "static/js/2.948fdfcb.chunk.js": "/lizard_valley/static/js/2.948fdfcb.chunk.js",
+    "static/js/2.948fdfcb.chunk.js.map": "/lizard_valley/static/js/2.948fdfcb.chunk.js.map",
+    "static/js/3.c837af91.chunk.js": "/lizard_valley/static/js/3.c837af91.chunk.js",
+    "static/js/3.c837af91.chunk.js.map": "/lizard_valley/static/js/3.c837af91.chunk.js.map",
+    "index.html": "/lizard_valley/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/lizard_valley/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.948fdfcb.chunk.js.LICENSE.txt": "/lizard_valley/static/js/2.948fdfcb.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/lizard_valley/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71722d21.js",
+    "static/js/2.948fdfcb.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.75ee34e8.chunk.js"
+  ]
+}
